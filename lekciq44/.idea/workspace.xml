@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ee0b1d6-08ab-4911-b61f-4321a13bcca0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YUPWwbqwxD9MabRlff3j9mO2KB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Odd_Even_Sum">
+    <configuration name="CharacterSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterSequence" />
+      <module name="lekciq4-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Left_and_Right_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Left_and_Right_Sum" />
+      <module name="lekciq4-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberSequence" />
+      <module name="lekciq4-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Odd_Even_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Odd_Even_Sum" />
+      <module name="lekciq4-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VowelsSum" />
+      <module name="lekciq4-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Odd_Even_Sum" />
+        <item itemvalue="Application.Left_and_Right_Sum" />
+        <item itemvalue="Application.NumberSequence" />
+        <item itemvalue="Application.VowelsSum" />
+        <item itemvalue="Application.CharacterSequence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ee0b1d6-08ab-4911-b61f-4321a13bcca0" name="Default Changelist" comment="" />
+      <created>1582994234828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582994234828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1583596729801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583596729801" />
+    <state width="989" height="350" key="GridCell.Tab.0.bottom" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state width="989" height="350" key="GridCell.Tab.0.center" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state width="989" height="350" key="GridCell.Tab.0.left" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state width="989" height="350" key="GridCell.Tab.0.right" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state width="989" height="350" key="GridCell.Tab.1.bottom" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state width="989" height="350" key="GridCell.Tab.1.center" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state width="989" height="350" key="GridCell.Tab.1.left" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state width="989" height="350" key="GridCell.Tab.1.right" timestamp="1583617724213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="989" height="350" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583617724213" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583611881595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583611881595" />
+    <state x="342" y="141" key="new project wizard" timestamp="1583596743321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583596743321" />
+  </component>
+</project>

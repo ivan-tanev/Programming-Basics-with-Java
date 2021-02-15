@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="784e7af2-aa8c-45a2-a901-77c51013f9f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YqxPA6mEtT2MinJUMEZzO6CYNz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Walking">
+    <configuration name="Cake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cake" />
+      <module name="cikli_chast_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam_Preparation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_Preparation" />
+      <module name="cikli_chast_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Old_Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Old_Books" />
+      <module name="cikli_chast_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vacation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vacation" />
+      <module name="cikli_chast_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Walking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Walking" />
+      <module name="cikli_chast_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Walking" />
+        <item itemvalue="Application.Exam_Preparation" />
+        <item itemvalue="Application.Cake" />
+        <item itemvalue="Application.Vacation" />
+        <item itemvalue="Application.Old_Books" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="784e7af2-aa8c-45a2-a901-77c51013f9f6" name="Default Changelist" comment="" />
+      <created>1583683898371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583683898371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="182" key="#Odd_Even_Position" timestamp="1583687238699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="231" y="182" key="#Odd_Even_Position/0.0.1920.1040@0.0.1920.1040" timestamp="1583687238699" />
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1584791574527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584791574527" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1584273250449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584273250449" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1584273250449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584273250449" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1584273250449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584273250449" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1584273250449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584273250449" />
+    <state width="968" height="347" key="GridCell.Tab.1.bottom" timestamp="1583691561429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583691561429" />
+    <state width="968" height="347" key="GridCell.Tab.1.center" timestamp="1583691561429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583691561429" />
+    <state width="968" height="347" key="GridCell.Tab.1.left" timestamp="1583691561429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583691561429" />
+    <state width="968" height="347" key="GridCell.Tab.1.right" timestamp="1583691561429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583691561429" />
+    <state x="217" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584791540645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="217" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584791540645" />
+    <state x="342" y="141" key="new project wizard" timestamp="1584791578727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584791578727" />
+  </component>
+</project>

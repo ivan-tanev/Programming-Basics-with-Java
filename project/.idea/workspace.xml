@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18ff3657-ec8c-44fb-88c2-34df5657ddf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XZrcDqtiJ0tUEqdJKpjibGPt3g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.TailoringWorkshop">
+    <configuration name="AlcoholMarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlcoholMarket" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharityCampaign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharityCampaign" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DanceHall_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DanceHall_05" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleArea2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleArea2D" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TailoringWorkshop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TailoringWorkshop" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TailoringWorkshop" />
+        <item itemvalue="Application.CharityCampaign" />
+        <item itemvalue="Application.RectangleArea2D" />
+        <item itemvalue="Application.DanceHall_05" />
+        <item itemvalue="Application.AlcoholMarket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18ff3657-ec8c-44fb-88c2-34df5657ddf7" name="Default Changelist" comment="" />
+      <created>1581264534111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581264534111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom" timestamp="1581696969744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581696969744" />
+    <state width="1877" height="190" key="GridCell.Tab.0.center" timestamp="1581696969744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581696969744" />
+    <state width="1877" height="190" key="GridCell.Tab.0.left" timestamp="1581696969743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581696969743" />
+    <state width="1877" height="190" key="GridCell.Tab.0.right" timestamp="1581696969744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581696969744" />
+    <state x="449" y="251" key="SettingsEditor" timestamp="1581266333893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="251" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581266333893" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581783319956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581783319956" />
+    <state x="690" y="276" key="extract.method.dialog" timestamp="1581268448654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="276" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581268448654" />
+    <state x="342" y="141" key="new project wizard" timestamp="1581783360232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581783360232" />
+  </component>
+</project>
